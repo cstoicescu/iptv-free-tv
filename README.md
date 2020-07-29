@@ -76,4 +76,9 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: TELEKOM SPORT 1   
 #EXTINF:-1,RO: TELEKOM SPORT 2   
 #EXTINF:-1,RO: TELEKOM SPORT 3   
-#EXTINF:-1,RO: TELEKOM SPORT 4    
+#EXTINF:-1,RO: TELEKOM SPORT 4     
+
+## Changelogs  
+FreeTv V.1.1 - add sport channels  
+FreeTv V.1.2 - fix ArrayIndexOutOfBounds Exception ( occurs sometimes on getting category )  
+FreeTv V.1.3 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully.
