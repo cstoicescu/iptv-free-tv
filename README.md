@@ -1,6 +1,6 @@
 # iptv-free-tv
-FREE TV CHANNELS
-playlist.m3u will be updated weekly
+FREE TV CHANNELS  
+playlist.m3u will be updated weekly  
 ## About
 **AUTOMATE API USING SELENIUM WEBDRIVER IN JAVA (iptv.jar).** *RUN.BAT creates a file playlist.m3u which contains video players for LIVE TV Channels.   
 **Playlist.m3u** can be opened on desktops, mobile, or smart TV (using any iptv player for TV ).*  
