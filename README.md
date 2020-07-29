@@ -2,7 +2,7 @@
 FREE TV CHANNELS
 
 ## About
-**AUTOMATE API USING SELENIUM WEBDRIVER.** *RUN.BAT creates a file playlist.m3u which contains video players for LIVE TV Channels.   
+**AUTOMATE API USING SELENIUM WEBDRIVER IN JAVA (iptv.jar).** *RUN.BAT creates a file playlist.m3u which contains video players for LIVE TV Channels.   
 **Playlist.m3u** can be opened on desktops, mobile, or smart TV (using any iptv player for TV ).*  
 Playlist.m3u:  
 ![Alt text](https://i.imgur.com/dJGyPEV.jpg)
@@ -69,3 +69,11 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: NATIONAL GEOGRAPHIC  
 #EXTINF:-1,RO: CBS REALITY  
 #EXTINF:-1,RO: BBC EARTH  
+#EXTINF:-1,RO: DIGI SPORT 1  
+#EXTINF:-1,RO: DIGI SPORT 2 
+#EXTINF:-1,RO: DIGI SPORT 3 
+#EXTINF:-1,RO: DIGI SPORT 4
+#EXTINF:-1,RO: TELEKOM SPORT 1
+#EXTINF:-1,RO: TELEKOM SPORT 2 
+#EXTINF:-1,RO: TELEKOM SPORT 3
+#EXTINF:-1,RO: TELEKOM SPORT 4  
