@@ -22,10 +22,10 @@ then a connection code, in case you want to upload playlist to TV (NO means tv i
 
 ## DEMO:   
 ### V.1.2  - deprecated
-![Alt text](https://i.imgur.com/ZssY7Tp.gifv)   
+![Alt text](https://media.giphy.com/media/S4Hl2Ljqig17XqbM5y/giphy.gif)   
 
 ### V.1.3 - latest
-![Alt text](https://i.imgur.com/gJgJ5vc.gifv)  
+![Alt text](https://media.giphy.com/media/H7f4HiTzSUMrpQ78CU/giphy.gif)  
 Currently supporting 50+ channels. Will add more:  
 
 #EXTINF:-1,RO: PRO CINEMA  
@@ -87,9 +87,9 @@ Currently supporting 50+ channels. Will add more:
 ## Instructions for using PC ONLY ( not TV ) 
 click RUN.bat  
 "Do you want to upload playlist to tv? : YES / NO" Type NO and press enter. Wait.  
-Playlist.m3u will be created in same directory.
+Playlist.m3u will be created in same directory.  
 ![Alt text](https://i.imgur.com/z29iG1T.jpg)  
-If channels are not working and this appears, it means playlist.m3u is not updated. **Then run RUN.bat to update it**  
+If channels are not working and this appears, it means playlist.m3u is not updated. **Then run RUN.bat to update it**   
 ![Alt text](https://i.imgur.com/Kg9cGcP.jpg)
 ## Changelogs  
 FreeTv V.1.1 - add sport channels  
