@@ -21,7 +21,7 @@ then a connection code, in case you want to upload playlist to TV (NO means tv i
 ![Alt text](https://i.imgur.com/3RBVhsN.jpg) 
 
 ## DEMO:   
-### V.1.2  - deprecated
+### ~~V.1.2~~  - deprecated
 ![Alt text](https://media.giphy.com/media/S4Hl2Ljqig17XqbM5y/giphy.gif)   
 
 ### V.1.3 - latest
