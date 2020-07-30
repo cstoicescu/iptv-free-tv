@@ -83,4 +83,4 @@ FreeTv V.1.1 - add sport channels
 FreeTv V.1.2 - fix ArrayIndexOutOfBounds Exception ( occurs sometimes on getting category )  
 FreeTv V.1.2.1 - increase performance by adding headless mode, runtime down to 15 seconds from ~50  
 FreeTv V.1.3  - change chromedriver path from relative to "user.dir". Added chromedriver to src  
-FreeTv V.1.4 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. ** DONE not madepublic**  
+FreeTv V.1.4 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not madepublic**  
