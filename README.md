@@ -1,6 +1,6 @@
 # iptv-free-tv
 FREE TV CHANNELS  
-playlist.m3u will be updated ~~weekly~~ daily      
+playlist.m3u will be updated ~~weekly~~ daily through automated api     
 ## About
 **AUTOMATE API USING SELENIUM WEBDRIVER IN JAVA (iptv.jar).** *RUN.BAT creates a file playlist.m3u which contains video players for LIVE TV Channels.   
 **Playlist.m3u** can be opened on desktops, mobile, or smart TV (using any iptv player for TV ).*  
@@ -83,4 +83,4 @@ FreeTv V.1.1 - add sport channels
 FreeTv V.1.2 - fix ArrayIndexOutOfBounds Exception ( occurs sometimes on getting category )  
 FreeTv V.1.2.1 - increase performance by adding headless mode, runtime down to 15 seconds from ~50  
 FreeTv V.1.3  - change chromedriver path from relative to "user.dir". Added chromedriver to src  
-FreeTv V.1.4 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully.  
+FreeTv V.1.4 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. ** DONE not madepublic**  
