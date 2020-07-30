@@ -20,6 +20,12 @@ then a connection code, in case you want to upload playlist to TV (NO means tv i
 
 ![Alt text](https://i.imgur.com/3RBVhsN.jpg) 
 
+## DEMO:   
+### V.1.2  - deprecated
+![Alt text](https://i.imgur.com/ZssY7Tp.gifv)   
+
+### V.1.3 - latest
+![Alt text](https://i.imgur.com/gJgJ5vc.gifv)  
 Currently supporting 50+ channels. Will add more:  
 
 #EXTINF:-1,RO: PRO CINEMA  
