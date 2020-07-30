@@ -78,6 +78,13 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: TELEKOM SPORT 3   
 #EXTINF:-1,RO: TELEKOM SPORT 4     
 
+## Instructions for using PC ONLY ( not TV ) 
+click RUN.bat  
+"Do you want to upload playlist to tv? : YES / NO" Type NO and press enter. Wait.  
+Playlist.m3u will be created in same directory.
+![Alt text](https://i.imgur.com/z29iG1T.jpg)  
+If channels are not working and this appears, it means playlist.m3u is not updated. **Then run RUN.bat to update it**  
+![Alt text](https://i.imgur.com/Kg9cGcP.jpg)
 ## Changelogs  
 FreeTv V.1.1 - add sport channels  
 FreeTv V.1.2 - fix ArrayIndexOutOfBounds Exception ( occurs sometimes on getting category )  
