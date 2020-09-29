@@ -60,13 +60,14 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: DISNEY JUNIOR  
 #EXTINF:-1,RO: DISNEY CHANNEL  
 #EXTINF:-1,RO: CARTOON NETWORK  
+#EXTINF:-1,RO: MR.BEAN 24/7 **new**  
 #EXTINF:-1,RO: ~~NIMO TV~~ **removed**  
 #EXTINF:-1,RO: JOHNNY BRAVO 24/7  
 #EXTINF:-1,RO: TOM & JERRY  
 #EXTINF:-1,RO: DIGI LIFE  
 #EXTINF:-1,RO: DIGI WORLD  
 #EXTINF:-1,RO: DIGI ANIMAL WORLD  
-#EXTINF:-1,RO: ~~Crime + Investigation~~ **removed**   
+#EXTINF:-1,RO: Crime + Investigation  **new**  
 #EXTINF:-1,RO: HISTORY CHANNEL  
 #EXTINF:-1,RO: ~~HISTORY 2~~ **removed**     
 #EXTINF:-1,RO: DISCOVERY CHANNEL  
