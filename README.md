@@ -85,7 +85,7 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: TELEKOM SPORT 3   
 #EXTINF:-1,RO: TELEKOM SPORT 4 
 
--- Added on request by users --
+-- Added on request by users --  
 #EXTINF:-1,RO: ANTENA 1  **new**   
 #EXTINF:-1,RO: PROTV     **new**   
 #EXTINF:-1,RO: DIGI 4K   **new**   
