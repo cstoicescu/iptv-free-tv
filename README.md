@@ -83,7 +83,18 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: TELEKOM SPORT 1   
 #EXTINF:-1,RO: TELEKOM SPORT 2   
 #EXTINF:-1,RO: TELEKOM SPORT 3   
-#EXTINF:-1,RO: TELEKOM SPORT 4     
+#EXTINF:-1,RO: TELEKOM SPORT 4 
+
+-- Added on request by users --
+#EXTINF:-1,RO: ANTENA 1  **new**   
+#EXTINF:-1,RO: PROTV     **new**   
+#EXTINF:-1,RO: DIGI 4K   **new**   
+#EXTINF:-1,RO: PRO 2     **new**   
+#EXTINF:-1,RO: PRO X     **new**   
+#EXTINF:-1,RO: ANTENA STARS  **new**    
+#EXTINF:-1,RO: TVR 1     **new**   
+ 
+    
 
 ## Instructions for using PC ONLY ( not TV ) 
 click RUN.bat  
