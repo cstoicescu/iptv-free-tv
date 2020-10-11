@@ -99,4 +99,5 @@ FreeTv V.1.2.1 - increase performance by adding headless mode, runtime down to 1
 FreeTv V.1.3  - change chromedriver path from relative to "user.dir". Added chromedriver to src  
 FreeTv V.1.4 - fix selenium.common.exceptions.WebDriverException: Message: Element is not clickable at point (61, 24.300003051757812). Other element would receive the click: null ",  
              - Added acceptance for cookie policy  
-FreeTv V.1.5 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**  
+FreeTv V.1.5 - **BIG UPDATE** Application used to work for certain Chrome Browser version (ex v85). Now it's compatible with **ALL** Chrome Browser Versions.  
+FreeTv V.1.6 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**  
