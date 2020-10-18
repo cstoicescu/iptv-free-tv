@@ -54,6 +54,7 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: MTV MUSIC 24  
 #EXTINF:-1,RO: BRIDGE TV DELUXE  
 #EXTINF:-1,RO: BRIDGE TV HITS  
+#EXTINF:-1,RO: MANELE TV    
 #EXTINF:-1,RO: MINIMAX  
 #EXTINF:-1,RO: BOOMERANG  
 #EXTINF:-1,RO: Nickelodeon  
@@ -69,7 +70,7 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: DIGI ANIMAL WORLD  
 #EXTINF:-1,RO: Crime + Investigation  **new**  
 #EXTINF:-1,RO: HISTORY CHANNEL  
-#EXTINF:-1,RO: ~~HISTORY 2~~ **removed**     
+#EXTINF:-1,RO: ~~HISTORY 2~~ **new**      
 #EXTINF:-1,RO: DISCOVERY CHANNEL  
 #EXTINF:-1,RO: DISCOVERY SCIENCE  
 #EXTINF:-1,RO: DISCOVERY ID  
@@ -84,15 +85,22 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: TELEKOM SPORT 2   
 #EXTINF:-1,RO: TELEKOM SPORT 3   
 #EXTINF:-1,RO: TELEKOM SPORT 4 
+#EXTINF:-1,RO: FIGHTBOX **new**  
 
 -- Added on requests from users --  
-#EXTINF:-1,RO: ANTENA 1  **new**   
+#EXTINF:-1,RO: ANTENA 1  **new** 
+#EXTINF:-1,RO: ANTENA STARS  **new**    
 #EXTINF:-1,RO: PROTV     **new**   
 #EXTINF:-1,RO: DIGI 4K   **new**   
 #EXTINF:-1,RO: PRO 2     **new**   
-#EXTINF:-1,RO: PRO X     **new**   
-#EXTINF:-1,RO: ANTENA STARS  **new**    
+#EXTINF:-1,RO: PRO X     **new** 
+#EXTINF:-1,RO: PRO GOLD  **new**  
+#EXTINF:-1,RO: KANAL D   **new**  
+#EXTINF:-1,RO: PRIMA TV  **new**  
+#EXTINF:-1,RO: RO TV     **new**
 #EXTINF:-1,RO: TVR 1     **new**   
+#EXTINF:-1,RO: TVR 2     **new**  
+#EXTINF:-1,RO: TVR 3     **new**  
  
     
 
@@ -112,4 +120,6 @@ FreeTv V.1.4 - fix selenium.common.exceptions.WebDriverException: Message: Eleme
              - Added acceptance for cookie policy  
 FreeTv V.1.5 - **BIG UPDATE** Application used to work for certain Chrome Browser version (ex v85). Now it's compatible with **ALL** Chrome Browser Versions.  
 FreeTv V.1.6 - Add Romanian Tv channels on demand from user side. See change list channels.  
-FreeTv V.1.7 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**  
+FreeTv V.1.7 - New Channells, rewrite whole code - a lot of code refactoring to improve performance. This may be the final version bc don't have time anymore.  
+	     - ** I DISABLED OLDER VERSIONS SO THEY NO LONGER WORK, DOWNLOAD LATEST 1.7**  
+FreeTv V.1.8 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**  
