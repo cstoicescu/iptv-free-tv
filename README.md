@@ -92,15 +92,15 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: ANTENA STARS  **new**    
 #EXTINF:-1,RO: PROTV     **new**   
 #EXTINF:-1,RO: DIGI 4K   **new**   
-#EXTINF:-1,RO: PRO 2     **new**   
-#EXTINF:-1,RO: PRO X     **new** 
+#EXTINF:-1,RO: PRO 2     **new**    
+#EXTINF:-1,RO: PRO X     **new**     
 #EXTINF:-1,RO: PRO GOLD  **new**  
-#EXTINF:-1,RO: KANAL D   **new**  
-#EXTINF:-1,RO: PRIMA TV  **new**  
-#EXTINF:-1,RO: RO TV     **new**
-#EXTINF:-1,RO: TVR 1     **new**   
-#EXTINF:-1,RO: TVR 2     **new**  
-#EXTINF:-1,RO: TVR 3     **new**  
+#EXTINF:-1,RO: KANAL D   **new**   
+#EXTINF:-1,RO: PRIMA TV  **new**   
+#EXTINF:-1,RO: RO TV     **new**     
+#EXTINF:-1,RO: TVR 1     **new**    
+#EXTINF:-1,RO: TVR 2     **new**   
+#EXTINF:-1,RO: TVR 3     **new**   
  
     
 
@@ -121,5 +121,5 @@ FreeTv V.1.4 - fix selenium.common.exceptions.WebDriverException: Message: Eleme
 FreeTv V.1.5 - **BIG UPDATE** Application used to work for certain Chrome Browser version (ex v85). Now it's compatible with **ALL** Chrome Browser Versions.  
 FreeTv V.1.6 - Add Romanian Tv channels on demand from user side. See change list channels.  
 FreeTv V.1.7 - New Channells, rewrite whole code - a lot of code refactoring to improve performance. This may be the final version bc don't have time anymore.  
-	     - ** I DISABLED OLDER VERSIONS SO THEY NO LONGER WORK, DOWNLOAD LATEST 1.7**  
+	     - **I DISABLED OLDER VERSIONS SO THEY NO LONGER WORK, DOWNLOAD LATEST 1.7**  
 FreeTv V.1.8 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**  
