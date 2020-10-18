@@ -84,7 +84,7 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: TELEKOM SPORT 1   
 #EXTINF:-1,RO: TELEKOM SPORT 2   
 #EXTINF:-1,RO: TELEKOM SPORT 3   
-#EXTINF:-1,RO: TELEKOM SPORT 4 
+#EXTINF:-1,RO: TELEKOM SPORT 4  
 #EXTINF:-1,RO: FIGHTBOX **new**  
 
 -- Added on requests from users --  
@@ -120,6 +120,8 @@ FreeTv V.1.4 - fix selenium.common.exceptions.WebDriverException: Message: Eleme
              - Added acceptance for cookie policy  
 FreeTv V.1.5 - **BIG UPDATE** Application used to work for certain Chrome Browser version (ex v85). Now it's compatible with **ALL** Chrome Browser Versions.  
 FreeTv V.1.6 - Add Romanian Tv channels on demand from user side. See change list channels.  
-FreeTv V.1.7 - New Channells, rewrite whole code - a lot of code refactoring to improve performance. This may be the final version bc don't have time anymore.  
+FreeTv V.1.7 - New Channels, rewrite whole code - a lot of code refactoring to improve performance. This may be the final version bc don't have time anymore.  
 	     - **I DISABLED OLDER VERSIONS SO THEY NO LONGER WORK, DOWNLOAD LATEST 1.7**  
-FreeTv V.1.8 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**  
+FreeTv V.1.8 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**   
+
+If you want to report a bug or add any comment or enhancement you have Issues tab.  
