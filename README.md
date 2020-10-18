@@ -70,7 +70,7 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: DIGI ANIMAL WORLD  
 #EXTINF:-1,RO: Crime + Investigation  **new**  
 #EXTINF:-1,RO: HISTORY CHANNEL  
-#EXTINF:-1,RO: ~~HISTORY 2~~ **new**      
+#EXTINF:-1,RO: HISTORY 2 **new**      
 #EXTINF:-1,RO: DISCOVERY CHANNEL  
 #EXTINF:-1,RO: DISCOVERY SCIENCE  
 #EXTINF:-1,RO: DISCOVERY ID  
