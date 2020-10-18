@@ -88,7 +88,7 @@ Currently supporting 50+ channels. Will add more:
 #EXTINF:-1,RO: FIGHTBOX **new**  
 
 -- Added on requests from users --  
-#EXTINF:-1,RO: ANTENA 1  **new** 
+#EXTINF:-1,RO: ANTENA 1  **new**   
 #EXTINF:-1,RO: ANTENA STARS  **new**    
 #EXTINF:-1,RO: PROTV     **new**   
 #EXTINF:-1,RO: DIGI 4K   **new**   
