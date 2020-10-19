@@ -120,7 +120,7 @@ FreeTv V.1.4 - fix selenium.common.exceptions.WebDriverException: Message: Eleme
              - Added acceptance for cookie policy  
 FreeTv V.1.5 - **BIG UPDATE** Application used to work for certain Chrome Browser version (ex v85). Now it's compatible with **ALL** Chrome Browser Versions.  
 FreeTv V.1.6 - Add Romanian Tv channels on demand from user side. See change list channels.  
-FreeTv V.1.7 - New Channels, rewrite whole code - a lot of code refactoring to improve performance. This may be the final version bc don't have time anymore.  
+FreeTv V.1.7 - New Channels, rewrite whole code - a lot of code refactoring to improve performance. This may be the final version bc don't have time anymore, but that doesn't mean it will stop working. This repo will always be automaticaly updated.
 	     - **I DISABLED OLDER VERSIONS SO THEY NO LONGER WORK, DOWNLOAD LATEST 1.7**  
 FreeTv V.1.8 - TO DO add feature -> update github repository automatically when RUN.bat is executed successfully. **DONE not made public**   
 
