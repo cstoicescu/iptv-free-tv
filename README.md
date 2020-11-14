@@ -1,6 +1,9 @@
 # iptv-free-tv
 FREE TV CHANNELS  
-playlist.m3u will be updated ~~weekly~~ daily through automated api     
+playlist.m3u will be updated ~~weekly~~ daily through automated api 
+  
+## NO LONGER WORKING. I had to take it down due to DCMA notices and complaints from isp. Many thanks to the guy who reported this.   
+  
 ## About
 **AUTOMATE API USING SELENIUM WEBDRIVER IN JAVA (iptv.jar).** *RUN.BAT creates a file playlist.m3u which contains video players for LIVE TV Channels.   
 **Playlist.m3u** can be opened on desktops, mobile, or smart TV (using any iptv player for TV ).*  
